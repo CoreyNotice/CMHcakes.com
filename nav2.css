@@ -8,7 +8,7 @@ body {
 #navbar {
   overflow: hidden;
   background-image: url("https://images.pexels.com/photos/703116/pexels-photo-703116.jpeg?auto=compress&cs=tinysrgb&w=600");
-  padding: 800px 10px;
+  padding: 40px 40px;
   transition: 0.4s;
   position: fixed;
   width: 100%;
